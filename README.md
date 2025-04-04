@@ -72,7 +72,8 @@ updateSelectizeInput(session, "vernacular_name",
 The renderLeaflet tool was used to generate the map. First, the species records entered by the user were filtered and the information was saved in the "map_data" vector. This dataset contains the coordinates needed to mark the points on the map (~longitudeDecimal and ~latitudeDecimal). 
 Additionally, the "popup" option was used, which contains a link that opens a new page with details of the sighting when clicked.
 
-![image](https://github.com/user-attachments/assets/f0e95fd0-b1d1-4600-9567-59e307c6f18d)
+![image](https://github.com/user-attachments/assets/f529d3f7-39e4-4d6c-af8d-2ea85de59c01)
+
 
 
 ## Timeline
@@ -99,6 +100,7 @@ The `ploty library was used to generate the timeline. Filtered data for the spec
 
 Records from Poland with images were searched, and this column was added to the database. Images are available in some records, so a field was designed to display the image if it exists; otherwise, the message "Image not available" is displayed.
 
-![image](https://github.com/user-attachments/assets/6c0e0d35-9c24-405d-a80a-58ce5c9e13bd)
+![image](https://github.com/user-attachments/assets/bdbb47f3-135f-465c-8ef1-110320e715f2)
+
 
 
